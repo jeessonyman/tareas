@@ -1,4 +1,4 @@
-// 20221201144428
+// 20221201151417
 // https://raw.githubusercontent.com/jeessonyman/tareas/master/peru_departamental_simple.geojson
 
 {
@@ -16,8 +16,7 @@
         "NOMBDEP": "AMAZONAS",
         "COUNT": 84,
         "FIRST_IDDP": "01",
-        "HECTARES": 3930646.567,
-		"temperature": -1.8590267896652222
+        "HECTARES": 3930646.567
       },
       "geometry": {
         "type": "Polygon",
@@ -545,8 +544,7 @@
         "NOMBDEP": "ANCASH",
         "COUNT": 166,
         "FIRST_IDDP": "02",
-        "HECTARES": 3596224.6,
-		"temperature": 11.531312942504883
+        "HECTARES": 3596224.6
       },
       "geometry": {
         "type": "Polygon",
@@ -998,8 +996,7 @@
         "NOMBDEP": "APURIMAC",
         "COUNT": 80,
         "FIRST_IDDP": "03",
-        "HECTARES": 2111415.17,
-		"temperature": 16.87540626525879
+        "HECTARES": 2111415.17
       },
       "geometry": {
         "type": "Polygon",
@@ -1343,8 +1340,7 @@
         "NOMBDEP": "AREQUIPA",
         "COUNT": 109,
         "FIRST_IDDP": "04",
-        "HECTARES": 6325588.935,
-		"temperature": 10.207911491394043
+        "HECTARES": 6325588.935
       },
       "geometry": {
         "type": "Polygon",
@@ -2062,8 +2058,7 @@
         "NOMBDEP": "AYACUCHO",
         "COUNT": 111,
         "FIRST_IDDP": "05",
-        "HECTARES": 4350381.783,
-		"temperature": 20.630022048950195
+        "HECTARES": 4350381.783
       },
       "geometry": {
         "type": "Polygon",
@@ -2781,8 +2776,7 @@
         "NOMBDEP": "CAJAMARCA",
         "COUNT": 127,
         "FIRST_IDDP": "06",
-        "HECTARES": 3304465.549,
-		"temperature": 11.178975105285645
+        "HECTARES": 3304465.549
       },
       "geometry": {
         "type": "Polygon",
@@ -3270,8 +3264,7 @@
         "NOMBDEP": "CALLAO",
         "COUNT": 6,
         "FIRST_IDDP": "07",
-        "HECTARES": 14140.954,
-		"temperature": 0.24391339719295502
+        "HECTARES": 14140.954
       },
       "geometry": {
         "type": "Polygon",
@@ -3327,8 +3320,7 @@
         "NOMBDEP": "CUSCO",
         "COUNT": 108,
         "FIRST_IDDP": "08",
-        "HECTARES": 7207614.24,
-		"temperature": -2.37241530418396
+        "HECTARES": 7207614.24
       },
       "geometry": {
         "type": "Polygon",
@@ -4254,8 +4246,7 @@
         "NOMBDEP": "HUANCAVELICA",
         "COUNT": 94,
         "FIRST_IDDP": "09",
-        "HECTARES": 2206503.876,
-		"temperature": -3.613253593444824
+        "HECTARES": 2206503.876
       },
       "geometry": {
         "type": "Polygon",
@@ -4687,8 +4678,7 @@
         "NOMBDEP": "HUANUCO",
         "COUNT": 76,
         "FIRST_IDDP": "10",
-        "HECTARES": 3720052.603,
-		"temperature": -3.4869956970214844
+        "HECTARES": 3720052.603
       },
       "geometry": {
         "type": "Polygon",
@@ -5297,7 +5287,6 @@
         "COUNT": 43,
         "FIRST_IDDP": "11",
         "HECTARES": 2108076.66
-		"temperature": -5.2953290939331055
       },
       "geometry": {
         "type": "Polygon",
@@ -5721,8 +5710,7 @@
         "NOMBDEP": "JUNIN",
         "COUNT": 123,
         "FIRST_IDDP": "12",
-        "HECTARES": 4399729.222,
-		"temperature": -14.745288848876953
+        "HECTARES": 4399729.222
       },
       "geometry": {
         "type": "Polygon",
@@ -6894,8 +6882,7 @@
         "NOMBDEP": "LAMBAYEQUE",
         "COUNT": 38,
         "FIRST_IDDP": "14",
-        "HECTARES": 1434230.801,
-		"temperature": 14.745288848876953
+        "HECTARES": 1434230.801
       },
       "geometry": {
         "type": "Polygon",
@@ -7131,8 +7118,7 @@
         "NOMBDEP": "LIMA",
         "COUNT": 171,
         "FIRST_IDDP": "15",
-        "HECTARES": 3498999.431,
-		"temperature": 19.745288848876953
+        "HECTARES": 3498999.431
       },
       "geometry": {
         "type": "Polygon",
@@ -7632,8 +7618,7 @@
         "NOMBDEP": "LORETO",
         "COUNT": 51,
         "FIRST_IDDP": "16",
-        "HECTARES": 37511598.865,
-		"temperature": 24.745288848876953
+        "HECTARES": 37511598.865
       },
       "geometry": {
         "type": "Polygon",
@@ -9221,8 +9206,7 @@
         "NOMBDEP": "MADRE DE DIOS",
         "COUNT": 11,
         "FIRST_IDDP": "17",
-        "HECTARES": 8504586.569,
-		"temperature": 17.745288848876953
+        "HECTARES": 8504586.569
       },
       "geometry": {
         "type": "Polygon",
@@ -9702,8 +9686,7 @@
         "NOMBDEP": "MOQUEGUA",
         "COUNT": 20,
         "FIRST_IDDP": "18",
-        "HECTARES": 1580730.977,
-		"temperature": 28.745288848876953
+        "HECTARES": 1580730.977
       },
       "geometry": {
         "type": "Polygon",
@@ -10019,8 +10002,7 @@
         "NOMBDEP": "PASCO",
         "COUNT": 28,
         "FIRST_IDDP": "19",
-        "HECTARES": 2411394.892,
-		"temperature": 24.745288848876953
+        "HECTARES": 2411394.892
       },
       "geometry": {
         "type": "Polygon",
@@ -10544,8 +10526,7 @@
         "NOMBDEP": "PIURA",
         "COUNT": 64,
         "FIRST_IDDP": "20",
-        "HECTARES": 3606506.675,
-		"temperature": 35.745288848876953
+        "HECTARES": 3606506.675
       },
       "geometry": {
         "type": "Polygon",
@@ -10989,8 +10970,7 @@
         "NOMBDEP": "PUNO",
         "COUNT": 109,
         "FIRST_IDDP": "21",
-        "HECTARES": 6796281.696,
-		"temperature": 17.745288848876953
+        "HECTARES": 6796281.696
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -11830,8 +11810,7 @@
         "NOMBDEP": "SAN MARTIN",
         "COUNT": 77,
         "FIRST_IDDP": "22",
-        "HECTARES": 5096125.898,
-		"temperature": 15.745288848876953
+        "HECTARES": 5096125.898
       },
       "geometry": {
         "type": "Polygon",
@@ -12507,8 +12486,7 @@
         "NOMBDEP": "TACNA",
         "COUNT": 27,
         "FIRST_IDDP": "23",
-        "HECTARES": 1608306.709,
-		"temperature": 23.745288848876953
+        "HECTARES": 1608306.709
       },
       "geometry": {
         "type": "Polygon",
@@ -12736,8 +12714,7 @@
         "NOMBDEP": "TUMBES",
         "COUNT": 13,
         "FIRST_IDDP": "24",
-        "HECTARES": 469026.014,
-		"temperature": 14.745288848876953
+        "HECTARES": 469026.014
       },
       "geometry": {
         "type": "Polygon",
@@ -12890,7 +12867,6 @@
         "COUNT": 15,
         "FIRST_IDDP": "25",
         "HECTARES": 10534176.378
-		"temperature": 25.745288848876953
       },
       "geometry": {
         "type": "Polygon",
